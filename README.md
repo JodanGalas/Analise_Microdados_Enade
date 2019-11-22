@@ -4,4 +4,4 @@ Projeto realizado no 1º semestre do curso de Análise e Desenvolvimento de Sist
 
 # Objetivo
 
-O projeto tem como objetivo analisar o número de mulheres negras ingressantes no Ensino Superior, a partir dos microdados retirados no site do INEP, do Censo do Ensino Superior dos últimos 5 anos (2014 - 2018).
+O projeto tem como objetivo analisar o crescimento no número de mulheres negras ingressantes no Ensino Superior, a partir dos microdados retirados no site do INEP, do Censo do Ensino Superior dos últimos 5 anos (2014 - 2018).
