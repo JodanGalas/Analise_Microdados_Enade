@@ -5,3 +5,8 @@ Projeto realizado no 1º semestre do curso de Análise e Desenvolvimento de Sist
 # Objetivo
 
 O projeto tem como objetivo analisar o crescimento no número de mulheres negras ingressantes no Ensino Superior, a partir dos microdados retirados no site do INEP, do Censo do Ensino Superior dos últimos 5 anos (2014 - 2018).
+
+# Dependências para a execução da análise e apresentação das informações
+
+A máquina precisa ter Python instalado (versão utilizada 3.7).
+Necessário importar as bibliotecas para ter acesso ao Jupyter.
