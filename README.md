@@ -9,6 +9,7 @@ O projeto tem como objetivo analisar o crescimento no número de mulheres negras
 # Dependências para a execução da análise e apresentação das informações
 
 01 - A máquina precisa ter Python instalado (versão utilizada 3.7).
+     Durante a instalação do Python lembre-se de marcar a opção PATH.
 
 02 - Fazer o import as bibliotecas corretas para ter acesso ao Jupyter notebook.
 
