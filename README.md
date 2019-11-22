@@ -11,4 +11,4 @@ O projeto tem como objetivo analisar o crescimento no número de mulheres negras
 A máquina precisa ter Python instalado (versão utilizada 3.7).
 Necessário importar as bibliotecas para ter acesso ao Jupyter.
 
-Baixe os arquivos necessarios para a criação do grafico clicando nesse link: https://drive.google.com/open?id=1IOG8BEshJLGOQG2Eg84v8UMPeSATbiJ4
+-Baixe os arquivos necessarios para a criação do grafico clicando nesse link: https://drive.google.com/open?id=1IOG8BEshJLGOQG2Eg84v8UMPeSATbiJ4
